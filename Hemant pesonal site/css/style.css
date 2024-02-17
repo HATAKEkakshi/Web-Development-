@@ -1,8 +1,29 @@
 body{
-    background-color:powderblue;
+    background-color: #E1F0DA;
 }
 hr{
     background-color: white;
-    width: 20px;
-    height: 100px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+h1{
+    color: #99BC85;
+}
+h3{
+    color: #99BC85;
+}
+p{
+    color: #BFD8AF;
+}
+ul{
+    color: #BFD8AF;
+}
+a{
+    color:#2D9596
+}
+table{
+    color: #BFD8AF;
 }
