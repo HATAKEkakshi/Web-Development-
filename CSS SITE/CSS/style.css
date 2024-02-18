@@ -1,23 +1,25 @@
-body{
-    margin: 0px; 
-}
+
 body{
     margin: 0px;
     text-align: center;
     font-family: "Merriweather", serif;;
-    font-size: 200%;
+    font-size: 170%;
 }
 h1{
+    color: #66BFBF;
     font-size: 5.625rem;
     margin : 50px auto 0px auto;
     font-family: "Sacramento", cursive;
   
 }
 h2{
+    color:#66BFBF;
     font-family: "Montserrat", sans-serif;
     font-size: 2.5rem;
+    font-weight: normal;
 }
 h3{
+    color: #11999E;
     font-family: "Montserrat", sans-serif;   
 }
 .cont{
@@ -34,4 +36,20 @@ h3{
    position: absolute;
    top: 50px;
    right: 300px;
+}
+.skill-row{
+    width:50% ;
+    margin:100px auto 100px auto  ;
+    text-align: left;
+    line-height: 2;
+}
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.hacking{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
